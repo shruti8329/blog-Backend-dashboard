@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ang-blog-project"
+  },
+  "targets": {
+    "ang-blog-project": {
+      "hosting": {
+        "angBlogDashboard": [
+          "and-blog-dashboard123"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

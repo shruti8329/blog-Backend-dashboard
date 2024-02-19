@@ -1,0 +1,9 @@
+/* button{
+      background-color: var(--primary-color); ;
+} */
+h3 {
+  color: var(--primary-color);
+}
+div {
+  text-align: center;
+}
